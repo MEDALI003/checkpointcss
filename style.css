@@ -6,10 +6,19 @@ a{
 }
 a:hover{
     background-color: grey;
+    border-radius: 20px;
 }
 #d1 {
     background-color: black;
-    width: 500px;
+    width: 425px;
+    border-radius: 20px;
 
 }
-a
+#home
+{
+    display:inline;
+}
+ h2+p {
+    border-radius: 10px;
+    background-color: teal;
+}
